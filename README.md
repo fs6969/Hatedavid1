@@ -1,1 +1,2 @@
-# fuckhim
+# lib/cors-anywhere.js
+clone
